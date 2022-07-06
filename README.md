@@ -41,13 +41,11 @@ $ npm test
 Add the path and name of the test file you wish to run, e.g.:
 
 ```
-$ npm test
+$ npm test palindrome/palindrome.test
 ```
 
 #
-
 <div align=right>
   <h6>With thanks to:
-    <br>ReadMe Typing SVG: <a href="https://git.io/typing-svg">DenverCoder1</a>
     <br>Markdown Badges: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a></h6>
 </div>
